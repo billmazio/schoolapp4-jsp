@@ -1,6 +1,6 @@
 # SchoolApp4-JSP
 
-A backend project built with **Jakarta** and frontend designed using **HTML**, **CSS**, and **JavaScript**.
+A backend project built with **Jakarta** and frontend designed using **HTML**, **CSS**.
 
 ## Features
 
