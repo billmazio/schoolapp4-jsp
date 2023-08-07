@@ -5,11 +5,8 @@ A backend project built with **Jakarta** and frontend designed using **HTML**, *
 ## Features
 
 ### 1. Registration Page
-
 ![Registration Page](https://github.com/billmazio/schoolapp4-jsp/assets/116730698/19a60f28-4a04-42d5-bdb0-c9cd18171049.png)
-
 ### 2. Login Page 
-
 Users can log in securely after successful registration.
 
 ![Login Page 1](https://github.com/billmazio/schoolapp4-jsp/assets/116730698/90967e32-8f4c-429f-92a9-6aa742bb1b74.png)
