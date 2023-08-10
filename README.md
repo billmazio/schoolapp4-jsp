@@ -1,7 +1,6 @@
 # SchoolApp4-JSP 🎓
 
-**SchoolApp4-JSP** is an intricate web application tailored primarily for the streamlined management of educational seminars centered on both teachers and students. Seamlessly blending the power of **Java (Jakarta EE)**, **HTML**, **CSS**, and **MySQL**, this application offers an intuitive and efficient platform for seminar administration.
-
+**SchoolApp4-JSP**SchoolApp4-JSP is a sophisticated web application tailored primarily for the streamlined management of educational seminars focused on both teachers and students. Seamlessly integrating the robustness of Java (Jakarta EE) with the flexibility of JSP (JavaServer Pages) and the modular approach of SOA (Service-Oriented Architecture), this platform couples effortlessly with HTML, CSS, and MySQL. Together, they provide a comprehensive, intuitive, and efficient solution for seminar administration.
 ## 🚀 Features:
 
 ### 1. 📝 Registration Page
