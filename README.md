@@ -39,7 +39,7 @@ Efficiently schedule and view meetings, associating both teachers and students u
 
 ### 9. 🔄 CRUD Menu
 A versatile interface that supports the full spectrum of Create, Read, Update, and Delete operations.
-![CRUD Menu](https://github.com/billmazio/schoolapp4-jsp/assets/116730698/1d4c9ed8-fb92-4951-b5dc-0643b16e127a.png)
+![CRUD Menu](https://github.com/billmazio/schoolapp4-jsp/assets/116730698/f0c0d839-9331-449f-b84a-90b1573e1a88)
 
 ### 10. 🤝 Contributions
 Big shoutout to the collaborators who've enriched this project with their contributions. [Explore Constantine's Contributions](https://github.com/ConstantineVac).
